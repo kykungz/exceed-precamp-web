@@ -1,0 +1,14 @@
+.center {
+    text-align: center;
+}
+
+.page {
+    max-width: 800px;
+    margin: auto;
+}
+
+.example {
+    text-align: center;
+    background-color: rgb(165, 255, 195);
+    padding: 20px;
+}
